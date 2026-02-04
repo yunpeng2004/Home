@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
-
 Here is **Yunpeng(Nick) Chu**
 
 I am a junior undergraduate student at Stony Brook University majoring in Applied Mathematics and Statistics (AMS) and Mathematics (MAT). 
