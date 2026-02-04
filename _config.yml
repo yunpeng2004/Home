@@ -57,9 +57,6 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: 中文
-    url: /cn/
-
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
