@@ -16,7 +16,6 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 ---
 
-## Research Interests
 
 ## Research Interests
 I'm interested in computational biomathematics, machine learning, and high-performance computing, focusing on interpretable and scalable methods for subgraph perturbation/anomaly detection and graph-structured change-point detection in omics networks.
