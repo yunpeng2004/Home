@@ -8,7 +8,7 @@ Here is **Yunpeng(Nick) Chu**
 
 I am a junior undergraduate student at Stony Brook University majoring in Applied Mathematics and Statistics (AMS) and Mathematics (MAT). 
 
-Prior to Stony Brook, I worked on research related to digital/corporate finance with Professor Ruoxi Zhang and Professor Chao Zhu at Capital University of Economic and Bussiness
+Prior to Stony Brook, I conducted research in digital and corporate finance, advised by Professors Ruoxi Zhang and Chao Zhu, at Capital University of Economics and Business.
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach me out at **yunpeng.chu [at] stonybrook.edu**
 
